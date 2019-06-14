@@ -33,6 +33,7 @@ Please don't read these while I present. I'll definitely know </3.
 
 ### Reproducibility
 *   [Nature article on reproducibility](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)
+*   [More recent Nature article on Jupyter as a data science tool](https://www.nature.com/articles/d41586-018-07196-1)
 *   [Reproducible Research](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter/blob/gh-pages/notebooks/Intro-to-reproducible-research.ipynb)
 
 
@@ -80,3 +81,5 @@ Please don't read these while I present. I'll definitely know </3.
 *   Go to Nbextensions tab on dashboard
 *   Activate GIST-IT, add your access token
 *   Click gistit button on notebook
+
+* An interesting looking extension to track exploration history: https://github.com/mkery/Verdant
