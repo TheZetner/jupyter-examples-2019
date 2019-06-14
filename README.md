@@ -7,6 +7,11 @@ Jupyter Notebooks and Associated Public Content 2019
 You'll enjoy the experience of Jupyter Dashboard and notebooks in the cloud.
 
 ---
+## Run the notebooks on [Microsoft Azure](https://notebooks.azure.com/TheZetner/projects/jupyter-examples-2019)
+
+Azure is a similar service as Binder allowing the user to run jupyter notebooks with a limited number of kernels.
+
+---
 
 ## See the [Gists](https://gist.github.com/TheZetner) 
 * Gists are single files, parts of files, and full applications to easily share with other people. 
