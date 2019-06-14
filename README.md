@@ -41,6 +41,8 @@ Please don't read these while I present. I'll definitely know </3.
 
 *   [The unreasonable effectiveness of public work - David Robinson](https://resources.rstudio.com/rstudio-conf-2019/the-unreasonable-effectiveness-of-public-work)
 *   [I don’t like notebooks - Joel Grus](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit#slide=id.g37ce315c78_0_13)
+*   [Eliademy: Open Research Software and Open Source](https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html)
+*   [DOI Numbers and Citable Code with Github](https://guides.github.com/activities/citable-code/)
 *   [Open source licenses](https://opensource.org/licenses)
 
 
