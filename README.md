@@ -1,7 +1,7 @@
 Jupyter Notebooks and Associated Public Content 2019
 ===
 
-## Launch the Notebooks Interactively: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TheZetner/jupyter-examples-2019/master)
+## Launch the Notebooks Interactively. Click here => [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TheZetner/jupyter-examples-2019/master)
 
 [Binder](https://gke.mybinder.org/) is a service that turns a Git repo into a collection of interactive notebooks.  
 You'll enjoy the experience of Jupyter Dashboard and notebooks in the cloud.
