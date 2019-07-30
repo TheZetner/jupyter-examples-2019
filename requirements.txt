@@ -1,2 +1,4 @@
 biopython
 matplotlib
+ipywidgets
+jupyter_contrib_nbextensions
