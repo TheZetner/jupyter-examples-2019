@@ -69,10 +69,18 @@ Please don't read these while I present. I'll definitely know </3.
 *   [https://github.com/jupyter-guide/ten-rules-jupyter](https://github.com/jupyter-guide/ten-rules-jupyter)
 *   [https://github.com/jupyter-guide/jupyter-guide](https://github.com/jupyter-guide/jupyter-guide)
 
+### Jupyter Lab
+
+*   Jupyter’s Next-Generation Notebook Interface: [LINK](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
+*   JupyterLab is a web-based interactive development environment for Jupyter notebooks, code, and data.
+*   JupyterLab is flexible: configure and arrange the user interface to support a wide range of workflows in data science, scientific computing, and machine learning. 
+*   JupyterLab is extensible and modular: write plugins that add new components and integrate with existing ones.
+*   Activate in binder file explorer by changing end of url from ```/tree``` to ```/lab```
 
 ### Notebook Extensions
 
-*   [Example Azure Notebook with Extensions](https://firsttimeazuretest-thezetner.notebooks.azure.com/j/tree#nbextensions_configurator)
+![Notebook Extensions](https://miro.medium.com/max/1000/1*hRhdOuS-4NxEyd4Yqlzwxg.png)
+*   [Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 *   Enable nbextensions  
     ```conda install -c conda-forge jupyter_nbextensions_configurator```
 *   Enable nbextensions  
