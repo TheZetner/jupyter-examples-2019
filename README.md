@@ -34,7 +34,7 @@ Azure is a similar service as Binder allowing the user to run jupyter notebooks 
 
 ---
 
-## Leave Feedback and View the [Slides](https://forms.gle/MTRRMaa3ScVGNWYu9)
+## Leave Feedback and View the SLIDES
 Slides are available after the workshop as thanks for filling out the feedback form!
 
 ---
