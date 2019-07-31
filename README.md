@@ -7,7 +7,7 @@ Jupyter Notebooks and Associated Public Content 2019
 You'll enjoy the experience of Jupyter Dashboard and notebooks in the cloud.
 
 ## Local users on JupyterHub - download notebooks using Jupyter Terminal
-* Sign in with Science Network user/password
+* Sign in at [https://jupyter.cscscience.ca](https://jupyter.cscscience.ca) with Science Network user/password
 * Click the '+' in the upper left, scroll down to _Other_
 * Open a Terminal and enter the below command to download and make available the notebooks:  
 ```wget --content-disposition "https://share.corefacility.ca/index.php/s/hGzpxdEFlsOPrLK/download"; unzip jupyter.zipjupyter.zip```
@@ -30,8 +30,8 @@ Azure is a similar service as Binder allowing the user to run jupyter notebooks 
 
 ---
 
-## Leave Feedback and View the [Slides](https://forms.gle/FR42YYNSytHUqDer7)
-Slides are available as thanks for filling out the feedback form!
+## Leave Feedback and View the **SLIDES**
+Slides are available after the workshop as thanks for filling out the feedback form!
 
 ---
 
