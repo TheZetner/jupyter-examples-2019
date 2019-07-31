@@ -28,9 +28,13 @@ Azure is a similar service as Binder allowing the user to run jupyter notebooks 
 * Gists are repositories that can be forked and cloned
 * [More about Gists](https://help.github.com/en/articles/about-gists)
 
+## Example Jupyter Notebook with R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r/master?filepath=index.ipynb)
+
+[Repository](https://github.com/binder-examples/r)
+
 ---
 
-## Leave Feedback and View the **SLIDES**
+## Leave Feedback and View the [Slides](https://forms.gle/MTRRMaa3ScVGNWYu9)
 Slides are available after the workshop as thanks for filling out the feedback form!
 
 ---
