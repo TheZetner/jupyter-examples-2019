@@ -6,6 +6,13 @@ Jupyter Notebooks and Associated Public Content 2019
 [Binder](https://gke.mybinder.org/) is a service that turns a Git repo into a collection of interactive notebooks.  
 You'll enjoy the experience of Jupyter Dashboard and notebooks in the cloud.
 
+## Local users on JupyterHub - download notebooks using Jupyter Terminal
+* Sign in with Science Network user/password
+* Click the '+' in the upper left, scroll down to _Other_
+* Open a Terminal and enter the below command to download and make available the notebooks:  
+```wget --content-disposition "https://share.corefacility.ca/index.php/s/hGzpxdEFlsOPrLK/download"; unzip jupyter.zipjupyter.zip```
+* Sometimes jupyter hub can have issues like _File load errors_ (it's not a core resource and has no designated IT staff) but the easiest way to fix those is to open up a jupyter terminal as above and kill your user's processes on jupyter then refresh the page and follow the prompts: ```killall -u YOURSCIENCEUSERNAME```
+
 ---
 ## Run the notebooks on [Microsoft Azure](https://notebooks.azure.com/TheZetner/projects/jupyter-examples-2019)
 
